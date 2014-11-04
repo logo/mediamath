@@ -4,12 +4,12 @@
  */
 
 .logo[data-logo="MediaMath"] {
-  width: 1.633922852698587em;
+  width: 2.6em;
 }
 
 .logo[data-logo="MediaMath"] > * {
   background-image: url(images/logo.svg);
-  margin: 0 0 0 0;
+  margin: -.3em 0 -.3em 0;
 }
 
 .logo[data-logo="MediaMath"][data-color="black"] > * {
